@@ -57,15 +57,5 @@ exp-4/
 ```
 
 ## 🎥 Output Video
-
-The screen recording demonstrates the execution of the Android application and its implemented functionality.
-
-**Watch the output:** Open the screen-recording video uploaded to this repository.
-
-
-ee9d211e-ad67-40ac-9afb-63343e429b75
-
-
-
 https://github.com/user-attachments/assets/a00e72da-b511-4036-b814-3217372f0ab4
 
